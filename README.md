@@ -5,7 +5,7 @@
 
 
 <div align="center"> 
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1cWVvamZlZzIzZWpvdGVtc2syaXBiendmM2N5Z2c3Z2duc29wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmbpnaPe5mOEdMWJSC/giphy.gif](https://github.com/Minsuhk/Minsuhk/blob/main/gundam-gundam-seed.gif">
+    <img src="https://github.com/Minsuhk/Minsuhk/blob/main/gundam-gundam-seed.gif">
 </div>
 
 
