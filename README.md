@@ -5,8 +5,8 @@
 <div align="center"> 
     <img src="https://github.com/Minsuhk/Minsuhk/blob/main/gundam-gundam-seed.gif">
 </div>
-<div align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Minsuhk&color=orange&style=for-the-badge&label=Profile Views">
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Minsuhk&color=orange&style=for-the-badge"/>
 </div>
 <br>
 
