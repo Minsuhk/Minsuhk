@@ -1,18 +1,68 @@
-# 💫 About Me:
-Hi I'm Nick, a software developer based in SoCal :3<br>
+<h1 align="center"> 🦌Hi, you found me🦌 </h1>
+<!-- <div align="center"> 
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1cWVvamZlZzIzZWpvdGVtc2syaXBiendmM2N5Z2c3Z2duc29wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NmbpnaPe5mOEdMWJSC/giphy.gif">
+</div> -->
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicholasmchung/) 
+![Alt Text](https://github.com/Minsuhk/Minsuhk/blob/main/gundam-gundam-seed.gif)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Minsuhk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Minsuhk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsuhk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Minsuhk&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Minsuhk&color=orange&style=for-the-badge&label=Profile Views">
+</div>
+<br>
+
+
+
+<h2 align="center"> 💪What I've used🛠️ </h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,php,js,r,github,git,vscode,visualstudio,unity,react,flask,latex&perline=9" style="width: 50%;" alt="Tech Stack"/>
+</div>
+<br>
+
+
+
+<h2 align="center"> 🖥️Projects🤓 </h2>
+<div align="left">
+    <ul>
+        <li>
+            <a href="https://github.com/CSUF-CPSC223W-2022S/project-group-9"> CSUF Food Review App </a>
+            - Fullstack app that allows the users to rate the food on CSUF campus
+        </li>
+        <li>
+            <a href="https://github.com/Minsuhk/nickchungdev"> Personal Website </a>
+            - Personal website
+        </li>
+        <li>
+            <a href="https://github.com/JustinLieng/CPSC-481-Dino-AI"> Dinosaur AI </a>
+            - AI that plays the Google T-Rex game
+        </li>
+        <li>
+            <a href="https://github.com/HunterBendel/Moyai"> Game Info Website </a>
+            - Web application that allows the user to track game information 
+        </li>
+    </ul>
+</div>
+<br>
+
+
+
+<h2 align="center"> 📉Stats📈 </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Minsuhk&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" style="height: 200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsuhk&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="height: 200">
+</div>
+<br>
+
+
+
+<h2 align="center"> 🗣️Socials💭 </h2>
+<div align="center"> 
+    <a href="https://www.linkedin.com/in/nicholasmchung/">
+        <img src="https://skillicons.dev/icons?i=linkedin">
+    </a>
+    <a href="mailto: nicholasmchung@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail">
+    </a>
+</div>
